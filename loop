@@ -2,4 +2,6 @@ count = 1
 while count <= 10:
   print(count)
   count += 1
-  참 좋았지
+  
+  반복문과 조건문을 배웠다. 
+  재미있었다.
